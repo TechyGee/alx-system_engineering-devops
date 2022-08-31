@@ -1,2 +1,2 @@
-#!/bin/bashd
-chmod u+x file
+#!/bin/bash
+pwd
