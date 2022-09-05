@@ -5,3 +5,4 @@
  5 tail /etc/passwd - Displaying the last 10 lines in the file.
  6 head /etc/passwd - Displaying the first 10 lines in a file.
  7 echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" - echoing "Best School" in a file
+ 8 ls -la > ls_cwd_content - listng the file content in a long format
