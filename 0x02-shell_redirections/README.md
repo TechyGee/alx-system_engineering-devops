@@ -1,1 +1,2 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+echo "Hello, World" - printing Hello World as standard output
+echo \"\(\Ôo\)\' - displaying a confused smiley
