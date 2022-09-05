@@ -4,3 +4,4 @@
  4 cat /etc/passwd and /etc/hosts - Display the two file content
  5 tail /etc/passwd - Displaying the last 10 lines in the file.
  6 head /etc/passwd - Displaying the first 10 lines in a file.
+ 7 echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" - echoing "Best School" in a file
