@@ -8,3 +8,4 @@
  7 export BEST="School" - creating a new global variable
  8 echo $((128+TRUEKNOWLEDGE)) - adding 128 to trueknowledge 
  9 echo $((POWER/DIVIDE)) - DIVISTION
+ 10 echo $((BREATH**LOVE)) - Exponential
