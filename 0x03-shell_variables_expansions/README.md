@@ -5,3 +5,4 @@
  4 printenv - Creating a script that lists environment variables.
  5 set - creating a script that lists a local variables and environment variable
  6 BEST="School" - creating a new local variable
+ 7 export BEST="School" - creating a new global variable
