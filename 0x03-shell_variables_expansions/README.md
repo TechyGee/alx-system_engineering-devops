@@ -6,3 +6,5 @@
  5 set - creating a script that lists a local variables and environment variable
  6 BEST="School" - creating a new local variable
  7 export BEST="School" - creating a new global variable
+ 8 echo $((128+TRUEKNOWLEDGE)) - adding 128 to trueknowledge 
+ 9 echo $((POWER/DIVIDE)) - DIVISTION
