@@ -12,4 +12,5 @@
  11 echo "$((2#$BINARY)" - converting from base 2 to base 10
 12 echo {a..z}{a..z} | tr " " "\n" | grep -v "oo" - possible combinations
 13 printf "%.2f\n" $NUM - printing two decimal places follow by a new line.
-14 printf '%x\n' $DECIMAL - convert number from base 10 to base 16
+14 printf '%x\n' $DECIMAL - convert number from base 10 to base 16 
+15 tr 'A-Za-z' 'N-ZA-Mn-za-m' - encoding and decoding text using rot13 encryption
